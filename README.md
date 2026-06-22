@@ -1,4 +1,4 @@
 # selenium-java-framework
-Test Automation Framework for mf
+Test Automation Framework
 
-June 22/26 Update
+Removed date
