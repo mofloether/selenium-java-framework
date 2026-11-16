@@ -47,6 +47,13 @@
             <version>4.18.1</version>
         </dependency>
 
+        <!-- WebDriverManager — auto-downloads ChromeDriver -->
+        <dependency>
+            <groupId>io.github.bonigarcia</groupId>
+            <artifactId>webdrivermanager</artifactId>
+            <version>5.7.0</version>
+        </dependency>
+
         <!-- TestNG -->
         <dependency>
             <groupId>org.testng</groupId>

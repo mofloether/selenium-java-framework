@@ -17,9 +17,7 @@ public class Calculator {
         return num2;
     }
 
-    public double getResult() {
-        return result;
-    }
+
 
     public void setNum1(double num1) {
         this.num1 = num1;
@@ -31,6 +29,9 @@ public class Calculator {
 
     public void setResult(double result) {
         this.result = result;
+    }
+    public double getResult() {
+        return result;
     }
 
     public static double add(double num1, double num2){
